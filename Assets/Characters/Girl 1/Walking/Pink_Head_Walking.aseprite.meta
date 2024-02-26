@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 9341c457a2916654ba3c5c66d03ccb6a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Pink_Head_Walking_Frame_0
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 21
+      height: 30
+    spriteID: 00eefa432c51f03448657b1f852aad28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Pink_Head_Walking_Frame_1
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 21
+      height: 30
+    spriteID: 4fe1a596f24be924ebe7b7699900af33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 42}
+  - name: Pink_Head_Walking_Frame_2
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 80
+      width: 21
+      height: 30
+    spriteID: b5be7056d9780784481b3749c131bbaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 80}
+  - name: Pink_Head_Walking_Frame_3
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 21
+      height: 30
+    spriteID: 7287f04ddb7bb8244babeea542f6430d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: Pink_Head_Walking_Frame_4
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 156
+      width: 21
+      height: 30
+    spriteID: d42ab6a2d2088984abba0142af2dd774
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 156}
+  - name: Pink_Head_Walking_Frame_5
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 194
+      width: 21
+      height: 30
+    spriteID: 68206a1dee23f184e86d299815b8bfea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 194}
+  - name: Pink_Head_Walking_Frame_6
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 4
+      width: 21
+      height: 30
+    spriteID: 5aa0a528d3a922f49a08580c232be0d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 4}
+  - name: Pink_Head_Walking_Frame_7
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.033333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 42
+      width: 21
+      height: 30
+    spriteID: eba47fb41d17161469279c8a27f31a1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 42}
+  - name: Pink_Head_Walking_Frame_8
+    originalName: 
+    pivot: {x: 0.47619048, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 80
+      width: 21
+      height: 30
+    spriteID: 03dc9343fbde8674283f995e0ceb10a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 80}
+  - name: Pink_Head_Walking_Frame_9
+    originalName: 
+    pivot: {x: 0.47619048, y: -0.06896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 4
+      width: 21
+      height: 29
+    spriteID: 7024f5153c2db4f4897aa3967571ad02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 4}
+  - name: Pink_Head_Walking_Frame_10
+    originalName: 
+    pivot: {x: 0.47619048, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 118
+      width: 21
+      height: 30
+    spriteID: e4590f6b263d1ac4dba3764ca80e5518
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 118}
+  - name: Pink_Head_Walking_Frame_11
+    originalName: 
+    pivot: {x: 0.47619048, y: -0.06896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 41
+      width: 21
+      height: 29
+    spriteID: 42170ac1e276e2b4a90ff1b70d15b251
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 41}
+  - name: Pink_Head_Walking_Frame_12
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 156
+      width: 21
+      height: 30
+    spriteID: d6d142107d881fd438c7418a09bc91aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 156}
+  - name: Pink_Head_Walking_Frame_13
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.06896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 78
+      width: 21
+      height: 29
+    spriteID: a0710abf7d9c46549b5fec8ba8a305c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 78}
+  - name: Pink_Head_Walking_Frame_14
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 194
+      width: 21
+      height: 30
+    spriteID: a903aed5ad1349d4bbb54fce357e8162
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 194}
+  - name: Pink_Head_Walking_Frame_15
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.06896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 115
+      width: 21
+      height: 29
+    spriteID: 3349dc0e647394d4bb8b317a53889360
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 115}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 185402725
+    name: Pink_Head_Walking
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Pink_Head_Walking_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 5
+        y: 2
+        width: 21
+        height: 30
+      spriteId: 00eefa432c51f03448657b1f852aad28
+    - name: Pink_Head_Walking_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 5
+        y: 1
+        width: 21
+        height: 30
+      spriteId: 4fe1a596f24be924ebe7b7699900af33
+    - name: Pink_Head_Walking_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 5
+        y: 2
+        width: 21
+        height: 30
+      spriteId: b5be7056d9780784481b3749c131bbaa
+    - name: Pink_Head_Walking_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 1
+        width: 21
+        height: 30
+      spriteId: 7287f04ddb7bb8244babeea542f6430d
+    - name: Pink_Head_Walking_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 5
+        y: 2
+        width: 21
+        height: 30
+      spriteId: d42ab6a2d2088984abba0142af2dd774
+    - name: Pink_Head_Walking_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 5
+        y: 1
+        width: 21
+        height: 30
+      spriteId: 68206a1dee23f184e86d299815b8bfea
+    - name: Pink_Head_Walking_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 5
+        y: 2
+        width: 21
+        height: 30
+      spriteId: 5aa0a528d3a922f49a08580c232be0d5
+    - name: Pink_Head_Walking_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 5
+        y: 1
+        width: 21
+        height: 30
+      spriteId: eba47fb41d17161469279c8a27f31a1d
+    - name: Pink_Head_Walking_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 6
+        y: 2
+        width: 21
+        height: 30
+      spriteId: 03dc9343fbde8674283f995e0ceb10a7
+    - name: Pink_Head_Walking_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 6
+        y: 2
+        width: 21
+        height: 29
+      spriteId: 7024f5153c2db4f4897aa3967571ad02
+    - name: Pink_Head_Walking_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 6
+        y: 2
+        width: 21
+        height: 30
+      spriteId: e4590f6b263d1ac4dba3764ca80e5518
+    - name: Pink_Head_Walking_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 6
+        y: 2
+        width: 21
+        height: 29
+      spriteId: 42170ac1e276e2b4a90ff1b70d15b251
+    - name: Pink_Head_Walking_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 5
+        y: 2
+        width: 21
+        height: 30
+      spriteId: d6d142107d881fd438c7418a09bc91aa
+    - name: Pink_Head_Walking_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 5
+        y: 2
+        width: 21
+        height: 29
+      spriteId: a0710abf7d9c46549b5fec8ba8a305c9
+    - name: Pink_Head_Walking_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 5
+        y: 2
+        width: 21
+        height: 30
+      spriteId: a903aed5ad1349d4bbb54fce357e8162
+    - name: Pink_Head_Walking_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 5
+        y: 2
+        width: 21
+        height: 29
+      spriteId: 3349dc0e647394d4bb8b317a53889360
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

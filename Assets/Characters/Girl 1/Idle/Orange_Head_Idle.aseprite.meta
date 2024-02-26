@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 13b25dddcd727224e99320b402777a13
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Orange_Head_Idle_Frame_0
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5981308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1358
+      y: 236
+      width: 669
+      height: 107
+    spriteID: 99b205ddd49a8f14e8856560aad7c3d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1358, y: 236}
+  - name: Orange_Head_Idle_Frame_1
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 669
+      height: 108
+    spriteID: 39ffe6e84e8325a45a265b1ac2f5d080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Orange_Head_Idle_Frame_2
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 681
+      y: 4
+      width: 669
+      height: 108
+    spriteID: de334b3fe96beb840a945b7136075054
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 4}
+  - name: Orange_Head_Idle_Frame_3
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.6037736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 467
+      width: 669
+      height: 106
+    spriteID: a3ad5f14826ef5b46b1c1a356aeb9a3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 467}
+  - name: Orange_Head_Idle_Frame_4
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.6037736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 681
+      y: 467
+      width: 669
+      height: 106
+    spriteID: 31a99f8cbf3f14d408782dd93884d826
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 467}
+  - name: Orange_Head_Idle_Frame_5
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5981308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 352
+      width: 669
+      height: 107
+    spriteID: 78bf6f5056ac72c438a0ccada0773511
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 352}
+  - name: Orange_Head_Idle_Frame_6
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1358
+      y: 4
+      width: 669
+      height: 108
+    spriteID: c47da112d56e1d14aaa2727f2674697b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1358, y: 4}
+  - name: Orange_Head_Idle_Frame_7
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 120
+      width: 669
+      height: 108
+    spriteID: ff1bd28f04586ff46bd8a88f776705ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 120}
+  - name: Orange_Head_Idle_Frame_8
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.6037736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1358
+      y: 467
+      width: 669
+      height: 106
+    spriteID: 98e64a29c69ed304b9c1a6d2d9e61477
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1358, y: 467}
+  - name: Orange_Head_Idle_Frame_9
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.6037736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 581
+      width: 669
+      height: 106
+    spriteID: 5a0a21a99fa0fb84f9b4dda93ee5dd94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 581}
+  - name: Orange_Head_Idle_Frame_10
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5981308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 681
+      y: 352
+      width: 669
+      height: 107
+    spriteID: 6ec6610a8985b1d488db9b0b13b5c024
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 352}
+  - name: Orange_Head_Idle_Frame_11
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 681
+      y: 120
+      width: 669
+      height: 108
+    spriteID: 7c284bd68bfa4734ba70a0f8651eb9c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 120}
+  - name: Orange_Head_Idle_Frame_12
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1358
+      y: 120
+      width: 669
+      height: 108
+    spriteID: 84434ab4b896d1c45b652fd7c7aa2954
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1358, y: 120}
+  - name: Orange_Head_Idle_Frame_13
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.6037736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 681
+      y: 581
+      width: 669
+      height: 106
+    spriteID: 5c18f92af9344bb49b6cfa8d1a7ca7aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 581}
+  - name: Orange_Head_Idle_Frame_14
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.6037736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1358
+      y: 581
+      width: 669
+      height: 106
+    spriteID: d85cff4992eae9541a85192fa148f100
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1358, y: 581}
+  - name: Orange_Head_Idle_Frame_15
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5981308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1358
+      y: 352
+      width: 669
+      height: 107
+    spriteID: 325c39200f29f0343bb3140363f6c866
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1358, y: 352}
+  - name: Orange_Head_Idle_Frame_16
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 236
+      width: 669
+      height: 108
+    spriteID: 48619751365a2ec45ab23dc0ed0123ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 236}
+  - name: Orange_Head_Idle_Frame_17
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.5925926}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 681
+      y: 236
+      width: 669
+      height: 108
+    spriteID: b508d3d6f57b6bb49ac263923e8b0dbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 236}
+  - name: Orange_Head_Idle_Frame_18
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.6037736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 695
+      width: 669
+      height: 106
+    spriteID: 21d0a18511fefeb49bdefa4a6d4b3895
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 695}
+  - name: Orange_Head_Idle_Frame_19
+    originalName: 
+    pivot: {x: 0.064275034, y: 0.6037736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 681
+      y: 695
+      width: 669
+      height: 106
+    spriteID: bde80d866482fb9418ce1323a8d02f00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 681, y: 695}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -893192458
+    name: Orange_Head_Idle
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Orange_Head_Idle_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 107
+      spriteId: 99b205ddd49a8f14e8856560aad7c3d5
+    - name: Orange_Head_Idle_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 108
+      spriteId: 39ffe6e84e8325a45a265b1ac2f5d080
+    - name: Orange_Head_Idle_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 108
+      spriteId: de334b3fe96beb840a945b7136075054
+    - name: Orange_Head_Idle_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 106
+      spriteId: a3ad5f14826ef5b46b1c1a356aeb9a3c
+    - name: Orange_Head_Idle_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 106
+      spriteId: 31a99f8cbf3f14d408782dd93884d826
+    - name: Orange_Head_Idle_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 107
+      spriteId: 78bf6f5056ac72c438a0ccada0773511
+    - name: Orange_Head_Idle_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 108
+      spriteId: c47da112d56e1d14aaa2727f2674697b
+    - name: Orange_Head_Idle_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 108
+      spriteId: ff1bd28f04586ff46bd8a88f776705ec
+    - name: Orange_Head_Idle_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 106
+      spriteId: 98e64a29c69ed304b9c1a6d2d9e61477
+    - name: Orange_Head_Idle_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 106
+      spriteId: 5a0a21a99fa0fb84f9b4dda93ee5dd94
+    - name: Orange_Head_Idle_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 107
+      spriteId: 6ec6610a8985b1d488db9b0b13b5c024
+    - name: Orange_Head_Idle_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 108
+      spriteId: 7c284bd68bfa4734ba70a0f8651eb9c6
+    - name: Orange_Head_Idle_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 108
+      spriteId: 84434ab4b896d1c45b652fd7c7aa2954
+    - name: Orange_Head_Idle_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 106
+      spriteId: 5c18f92af9344bb49b6cfa8d1a7ca7aa
+    - name: Orange_Head_Idle_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 106
+      spriteId: d85cff4992eae9541a85192fa148f100
+    - name: Orange_Head_Idle_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 107
+      spriteId: 325c39200f29f0343bb3140363f6c866
+    - name: Orange_Head_Idle_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 108
+      spriteId: 48619751365a2ec45ab23dc0ed0123ed
+    - name: Orange_Head_Idle_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 108
+      spriteId: b508d3d6f57b6bb49ac263923e8b0dbc
+    - name: Orange_Head_Idle_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 106
+      spriteId: 21d0a18511fefeb49bdefa4a6d4b3895
+    - name: Orange_Head_Idle_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -27
+        y: -64
+        width: 669
+        height: 106
+      spriteId: bde80d866482fb9418ce1323a8d02f00
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

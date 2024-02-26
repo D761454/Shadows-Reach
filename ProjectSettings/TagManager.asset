@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Barrier
+    uniqueID: 256835197
+    locked: 0
+  - name: Background
+    uniqueID: 1814508001
+    locked: 0
+  - name: HomeFloor
+    uniqueID: 2421292041
+    locked: 0
+  - name: HomeFloorDetail
+    uniqueID: 3920122595
+    locked: 0
+  - name: HomeWallsBottom
+    uniqueID: 3807524589
+    locked: 0
+  - name: HomeFurnitureBottom
+    uniqueID: 3065659347
+    locked: 0
+  - name: HomeDetail
+    uniqueID: 1915118473
+    locked: 0
+  - name: HomeWallsMid
+    uniqueID: 27513669
+    locked: 0
+  - name: HomeFurnitureTop
+    uniqueID: 2674676101
+    locked: 0
+  - name: DecorativeBack
+    uniqueID: 3668402573
+    locked: 0
+  - name: Houses
+    uniqueID: 2224918891
+    locked: 0
+  - name: Decorative
+    uniqueID: 3475133379
+    locked: 0
+  - name: Housesdoor
+    uniqueID: 3669422213
+    locked: 0
+  - name: FoliageS
+    uniqueID: 907955369
+    locked: 0
+  - name: Cliffs
+    uniqueID: 3564385603
+    locked: 0
+  - name: Rocks
+    uniqueID: 569227809
+    locked: 0
+  - name: FoliageXL
+    uniqueID: 3822748233
+    locked: 0
+  - name: TreesBottom
+    uniqueID: 4292198443
+    locked: 0
+  - name: TreeWall
+    uniqueID: 594941573
+    locked: 0
+  - name: TreesBase
+    uniqueID: 269021281
+    locked: 0
+  - name: FoliageL
+    uniqueID: 1796509815
+    locked: 0
+  - name: Player
+    uniqueID: 534273081
+    locked: 0
+  - name: WoodCovers
+    uniqueID: 688418503
+    locked: 0
+  - name: HouseAbovePlayer
+    uniqueID: 4041959575
+    locked: 0
+  - name: HomeWallsTop
+    uniqueID: 1336697089
+    locked: 0
+  - name: TreesTop
+    uniqueID: 3241972683
+    locked: 0
